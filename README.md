@@ -24,7 +24,7 @@ $ sudo apt update
 * Next, install certbot using the following command:
 
 ```
-sudo apt install -y certbot python3-certbot-nginx
+$ sudo apt install -y certbot python3-certbot-nginx
 ```
 
 * The python3-certbot-nginx package is a plugin that allows Cerbot to work with Nginx. With certbot installed, we can now proceed to obtain the SSL certificate.
@@ -129,58 +129,3 @@ $ sudo systemctl status haproxy
 # 📚 Author :pen:
 
 [Mustapha Aliyu Galadima](https://github.com/MG-Musty/)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
